@@ -17,7 +17,8 @@ left side of the LCD.
 • The duty cycle of the generated wave on the upper right 
 side of the LCD.   
 • The time of the single cycle .    
-![image](https://github.com/faatthy/PWM-Drawer/assets/110846097/0bb5eded-3f22-44cb-ae95-299584f47cf7)
+![image](https://github.com/faatthy/PWM-Drawer/assets/110846097/d3179334-2134-4e39-852b-9bda5766de03)
+
 
 ![image](https://github.com/faatthy/PWM-Drawer/assets/110846097/9c78b70a-84e4-49bc-a30e-0d1e920fdcd2)
 
