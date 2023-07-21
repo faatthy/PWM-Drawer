@@ -24,7 +24,7 @@ side of the LCD.
 # Hardware 
 1. Micro-controller (ATmega32, or equivalent).
 2. Graphical LCD.
-![image](https://github.com/faatthy/PWM-Drawer/assets/110846097/d4a53c53-0f0a-4d92-ad04-3312e6d55900)
+
 
 # Software
 1. protous simulator.
