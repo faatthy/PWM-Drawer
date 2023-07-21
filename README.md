@@ -1,6 +1,6 @@
 # PWM-Drawer
 Determination of the width of the pulse created by the microcontroller's timer using input catpure and data is being displayed via LCD.   
-- [Description](# System Description)
+- [System Description](# System Description)
 - [Specification](#• Specification – Graphical LCD)
 - [Schematic Capture](#Schematic-Capture)
    - [Main Components](#Main-Components)
