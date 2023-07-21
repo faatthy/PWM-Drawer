@@ -18,6 +18,7 @@ left side of the LCD.
 side of the LCD.   
 • The time of the single cycle .    
 ![image](https://github.com/faatthy/PWM-Drawer/assets/110846097/d3179334-2134-4e39-852b-9bda5766de03)
+![image](https://github.com/faatthy/PWM-Drawer/assets/110846097/863b4d34-34e8-4928-92a2-62236d46c3e5)
 
 
 ![image](https://github.com/faatthy/PWM-Drawer/assets/110846097/9c78b70a-84e4-49bc-a30e-0d1e920fdcd2)
