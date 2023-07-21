@@ -17,8 +17,18 @@ left side of the LCD.
 • The duty cycle of the generated wave on the upper right 
 side of the LCD.   
 • The time of the single cycle .    
-![image](https://github.com/faatthy/PWM-Drawer/assets/110846097/d3179334-2134-4e39-852b-9bda5766de03)
 ![image](https://github.com/faatthy/PWM-Drawer/assets/110846097/863b4d34-34e8-4928-92a2-62236d46c3e5)
+
+# Hardware 
+1. Micro-controller (ATmega32, or equivalent).
+2. Graphical LCD.
+
+# Software
+1. protous simulator.
+2. SDK Eclipse .
+
+# Simulation 
+![image](https://github.com/faatthy/PWM-Drawer/assets/110846097/e43334d1-4e46-4388-ae36-ca05434939c3)
 
 
 ![image](https://github.com/faatthy/PWM-Drawer/assets/110846097/9c78b70a-84e4-49bc-a30e-0d1e920fdcd2)
