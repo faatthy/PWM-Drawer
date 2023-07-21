@@ -30,6 +30,6 @@ side of the LCD.
 # Simulation 
 ![image](https://github.com/faatthy/PWM-Drawer/assets/110846097/e43334d1-4e46-4388-ae36-ca05434939c3)
 
-
+# Flow Chart
 ![image](https://github.com/faatthy/PWM-Drawer/assets/110846097/9c78b70a-84e4-49bc-a30e-0d1e920fdcd2)
 
